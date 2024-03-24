@@ -1,3 +1,11 @@
+**BASIC Web Development Project:
+Task 1 : Product Landing Page
+
+Product landing page you will use columns and align the components of the landing page within columns. Basic editing tasks like cropping images and making use of design templates are also covered in this.
+
+Skills Required – CSS, Image editing.**
+
+
 # Build-A-Product-Landing-Page
 FreeCodeCamp.com Responsive Web Design Certification Project - "Build A Product Landing Page"
 <https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page>
